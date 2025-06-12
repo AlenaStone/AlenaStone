@@ -1,16 +1,12 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Alena 👋<br><br>I'm a dual student of **Mobile Software Development** at FH JOANNEUM in Graz (2nd semester).  <br>I’m currently looking for a **part-time position (20–24h/week)** where I can grow as a developer and contribute to real-world projects.<br><br>I love coding, debugging (sometimes 😅), and solving problems creatively.  <br>Right now, I’m exploring different IT areas – from software development to web and scripting –  <br>but my long-term goal is to move into **game development 🎮** and bring interactive ideas to life.<br><br>Always learning, always curious – and yes, my coffee consumption is proportional to my Git commits ☕🧠.<br><br>📄 [View my CV (PDF)](https://alenastone.github.io/anothercv/ALENA%20VODOPIANOVA.pdf)  <br>📫 [Email me](mailto:alonsoy75@gmail.com)  <br>🔗 [LinkedIn](https://www.linkedin.com/in/alena-vodopianova-723b32b0/)<br>
 
-<!--
-**AlenaStone/AlenaStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlenaStone&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlenaStone&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaStone&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=AlenaStone&icon=0&color=11)](https://visitcount.itsvg.in)
