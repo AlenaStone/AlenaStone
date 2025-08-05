@@ -47,6 +47,8 @@ Always learning, always curious – and yes, my coffee consumption is proportion
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src = "https://www.codewars.com/users/AlenaStone/badges/large" /> <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AlenaStone&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenaStone&theme=merko&hide_border=false" alt="GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaStone&theme=merko&hide_border=false&layout=compact" alt="Top Languages" />
