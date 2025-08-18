@@ -16,7 +16,7 @@
 
 <p align="center">
 Hi, I'm Alena 👋<br><br>
-I'm a dual student of <strong>Mobile Software Development</strong> at FH JOANNEUM in Graz (2nd semester).<br>
+I'm a dual student of <strong>Mobile Software Development</strong> at FH JOANNEUM in Graz (3rd semester).<br>
 I’m currently looking for a <strong>part-time position (20–24h/week)</strong> where I can grow as a developer and contribute to real-world projects.<br><br>
 I love coding, debugging (sometimes 😅), and solving problems creatively.<br>
 Right now, I’m exploring different IT areas – from software development to web and scripting –<br>
