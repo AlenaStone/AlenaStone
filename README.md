@@ -1,27 +1,34 @@
+
 <h1 align="center">🌸 Alena Vodopianova 🌸</h1>
 
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVuZzhxN2Y4cDlmYXR0ODdqbnZkbDVmbzB2YTNiYjExZ3NxaHNsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="200" align="left">
 <p align="center">
   💻  Software Design & Cloud Computing Student | 🎮 Future Game Dev | 🌍 Based in Graz, Austria
 </p>
 
 <p align="center">
-  <a href="https://alenastone.github.io/anothercv/ALENA%20VODOPIANOVA.pdf">📄 CV (PDF)</a> •
+  <a href="https://github.com/AlenaStone/anothercv/blob/8b8cf91a58688af2b1fe98092b563a6fb1d6e55f/Lebenslauf%20Alena%20Vodopianova%20Junior%20Software%20Developer2.pdf">📄 CV (PDF)</a> •
   <a href="mailto:alonsoy75@gmail.com">📫 Email</a> •
-  <a href="https://www.linkedin.com/in/alena-vodopianova-723b32b0/">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/alena-vodopianova-723b32b0/">🔗 LinkedIn •</a>
+  <a href="https://github.com/AlenaStone/anothercv/blob/8b8cf91a58688af2b1fe98092b563a6fb1d6e55f/Lebenslauf%20Alena%20Vodopianova%20Junior%20Software%20Developer2.pdf">🎮 Portfolio </a>
 </p>
+<br clear="left"/>
 
----
 
-## 💫 About Me
+-----
+
+
+<h1 align="center"> 💫 About Me </h1>
 
 <p align="center">
-Hi, I'm Alena 👋<br><br>
-I'm a dual student of <strong> Software Design & Cloud Computing</strong> at FH JOANNEUM in Graz (3rd semester).<br>
-I’m currently looking for a <strong>part-time position (20–24h/week)</strong> where I can grow as a developer and contribute to real-world projects.<br><br>
-I love coding, debugging (sometimes 😅), and solving problems creatively.<br>
-Right now, I’m exploring different IT areas – from software development to web and scripting –<br>
-but my long-term goal is to move into <strong>game development 🎮</strong> and bring interactive ideas to life.<br><br>
-Always learning, always curious – and yes, my coffee consumption is proportional to my Git commits ☕🧠.
+Hi everyone, my name is Alena! 👋<br><br>
+I'm a student of <strong>Software Design & Cloud Computing</strong> at FH JOANNEUM in Graz (4th semester).<br>
+I'm currently looking for a <strong>job or an internship</strong> where I can grow and contribute.<br><br>
+Java is my true love ☕, and I’d love to build my career around it. However, I’m also familiar with other languages — you can check them out below! 👇<br><br>
+For me, coding is like a game of Sudoku. Even though it can make me anxious sometimes (okay, more than sometimes 😅), I keep coming back to it every single time and can easily spend days staring at the screen.<br><br>
+I’m highly curious, always bursting with a million ideas (usually way too complex for my current experience, haha), and deeply responsible.<br><br>
+I hope you find something useful in my projects, or hey — feel free to just hang out and play my games! 🎮
 </p>
 
 ---
