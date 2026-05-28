@@ -36,8 +36,8 @@ I hope you find something useful in my projects, or hey — feel free to just ha
 ## 💻 Tech Stack
 
 <p align="center" >
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -47,27 +47,24 @@ I hope you find something useful in my projects, or hey — feel free to just ha
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  
 </p>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src = "https://www.codewars.com/users/AlenaStone/badges/large" /> <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlenaStone&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenaStone&theme=merko&hide_border=false" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaStone&theme=merko&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlenaStone&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<p align="center">
-Built with Git, grit, and a bit of crying in the terminal 🫠
-</p>
